@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alok k</h1>
+<h1 align="center">Hi 👋, I'm Alok karali</h1>
 <h3 align="center">A passionate Java backend developer from India</h3>
 
 - 🌱 I’m currently learning **Java,Springboot**
